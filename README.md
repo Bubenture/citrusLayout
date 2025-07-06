@@ -3,12 +3,12 @@
 Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README.png/1.png" alt="Изображение 1" style="width: 200px; margin-right: 10px;">
-  <img src="README.png/2.png" alt="Изображение 2" style="width: 200px; margin-right: 10px;">
+  <img src="README.png/1.png" alt="Изображение 1" style="width: 300px; margin-right: 10px;">
+  <img src="README.png/2.png" alt="Изображение 2" style="width: 300px; margin-right: 10px;">
   <img src="README.png/3.png" alt="Изображение 3" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/4.png" alt="Изображение 4" style="width: 200px; margin-right: 10px;">
+  <img src="README.png/4.png" alt="Изображение 4" style="width: 300px; margin-right: 10px;">
   <img src="README.png/5.png" alt="Изображение 5" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/6.png" alt="Изображение 6" style="width: 200px; margin-right: 10px;">
+  <img src="README.png/6.png" alt="Изображение 6" style="width: 300px; margin-right: 10px;">
   <img src="README.png/7.png" alt="Изображение 7" style="width: 100px;">
 </div>
 
