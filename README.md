@@ -2,9 +2,9 @@
 
 Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
 
-![Изображение 1](images/README.png/1.png) ![Изображение 2](images/README.png/2.png) ![Изображение 3](images/README.png/3.png)
-![Изображение 4](images/README.png/4.png) ![Изображение 5](images/README.png/5.png)
-![Изображение 6](images/README.png/6.png) ![Изображение 7](images/README.png/7.png)
+![Изображение 1](README.png/1.png) ![Изображение 2](README.png/2.png) ![Изображение 3](README.png/3.png)
+![Изображение 4](README.png/4.png) ![Изображение 5](README.png/5.png)
+![Изображение 6](README.png/6.png) ![Изображение 7](README.png/7.png)
 
 ### Используемые технологии
 -	HTML5 — семантическая разметка.
