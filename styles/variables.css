@@ -1,0 +1,31 @@
+:root {
+  --bg: #d8e5d1;
+
+  --color1: 237, 142, 0;
+  --color2: 34, 181, 0;
+  --color3: 155, 35, 0;
+  --color4: 115, 155, 0;
+
+  --color-gradient-1: #71cf09;
+  --color-gradient-2: #6bcf0d;
+  --color-gradient-3: #5acc16;
+  --color-gradient-4: #3ec725;
+  --color-gradient-5: #17c13a;
+  --color-gradient-6: #15c03b;
+  --color-gradient-7: #777575;
+
+  --gradient-base: var(--color-gradient-1) 2%, var(--color-gradient-1) 18%,
+    var(--color-gradient-1) 20%, var(--color-gradient-2) 35%,
+    var(--color-gradient-3) 50%, var(--color-gradient-4) 70%,
+    var(--color-gradient-5) 90%, var(--color-gradient-6) 98%;
+
+  --gradient-1: linear-gradient(270deg, var(--gradient-base));
+  --gradient-2: linear-gradient(0deg, var(--gradient-base));
+  --gradient-3: linear-gradient(94deg, #000 -2%, var(--color-gradient-7) 60%);
+
+  --blending: hard-light;
+  --circle-size: 80%;
+  --transition: all 0.5s;
+  --transition-mnu: 1s cubic-bezier(0.8, 0, 0.1, 1);
+  --radius: 8px;
+}
