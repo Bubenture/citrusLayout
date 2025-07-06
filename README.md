@@ -1,6 +1,6 @@
 # https://bubenture.github.io/citrusLayout/
 
-##### Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
+### Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="README.png/1.png" alt="Изображение 1" style="width: 300px; margin-right: 10px;">
