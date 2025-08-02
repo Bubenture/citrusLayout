@@ -9,7 +9,6 @@
         <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
     </a>
 </div>
-</br>
 
 ### Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
 
