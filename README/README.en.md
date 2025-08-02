@@ -1,16 +1,25 @@
 # https://bubenture.github.io/citrusLayout
-# Citrus Layout
+
+<div>
+    <a href="../README.md">
+        <img src="https://img.shields.io/badge/README-RU-blue?color=006400&labelColor=006400&style=for-the-badge">
+    </a>
+    <a href="README.en.md">
+        <img src="https://img.shields.io/badge/README-ENG-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
+    </a>
+</div>
+</br>
 
 ### A layout focused on visual effects, smooth animations, and interactivity.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README.png/1.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/2.png" alt="Image 2" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/3.png" alt="Image 3" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/4.png" alt="Image 4" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/5.png" alt="Image 5" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/6.png" alt="Image 6" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/7.png" alt="Image 7" style="width: 100px;">
+  <img src="1.png" alt="Image 1" style="width: 300px; margin-right: 10px;">
+  <img src="2.png" alt="Image 2" style="width: 300px; margin-right: 10px;">
+  <img src="3.png" alt="Image 3" style="width: 100px; margin-right: 10px;">
+  <img src="4.png" alt="Image 4" style="width: 300px; margin-right: 10px;">
+  <img src="5.png" alt="Image 5" style="width: 100px; margin-right: 10px;">
+  <img src="6.png" alt="Image 6" style="width: 300px; margin-right: 10px;">
+  <img src="7.png" alt="Image 7" style="width: 100px;">
 </div>
 
 #### Technologies Used
