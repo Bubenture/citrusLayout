@@ -1,15 +1,26 @@
 # https://bubenture.github.io/citrusLayout
 
+</br>
+<div>
+    <a href="README.md">
+        <img src="https://img.shields.io/badge/README-RU-blue?color=44944a&labelColor=1C2325&style=for-the-badge">
+    </a>
+    <a href="README/README.en.md">
+        <img src="https://img.shields.io/badge/README-ENG-blue?color=006400&labelColor=006400&style=for-the-badge">
+    </a>
+</div>
+</br>
+
 ### Верстка с акцентом на визуальные эффекты, плавную анимацию и интерактивность.
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img src="README.png/1.png" alt="Изображение 1" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/2.png" alt="Изображение 2" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/3.png" alt="Изображение 3" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/4.png" alt="Изображение 4" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/5.png" alt="Изображение 5" style="width: 100px; margin-right: 10px;">
-  <img src="README.png/6.png" alt="Изображение 6" style="width: 300px; margin-right: 10px;">
-  <img src="README.png/7.png" alt="Изображение 7" style="width: 100px;">
+  <img src="README/1.png" alt="Изображение 1" style="width: 300px; margin-right: 10px;">
+  <img src="README/2.png" alt="Изображение 2" style="width: 300px; margin-right: 10px;">
+  <img src="README/3.png" alt="Изображение 3" style="width: 100px; margin-right: 10px;">
+  <img src="README/4.png" alt="Изображение 4" style="width: 300px; margin-right: 10px;">
+  <img src="README/5.png" alt="Изображение 5" style="width: 100px; margin-right: 10px;">
+  <img src="README/6.png" alt="Изображение 6" style="width: 300px; margin-right: 10px;">
+  <img src="README/7.png" alt="Изображение 7" style="width: 100px;">
 </div>
 
 
